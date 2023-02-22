@@ -1,8 +1,8 @@
-# 👻 Responsive 404 Page
+# 3D Flip Product Card Hover EFfects
 
 ## [Watch it on youtube](https://youtube.com/@techvanesstube)
 
-### 👻 Responsive 404 Page
+### 👻 3D Flip Product Card Hover EFfects
 
 - 3D Flip Product Card Hover Effect using CSS Only
 - Contains CSS animations.
